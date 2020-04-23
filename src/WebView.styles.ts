@@ -21,7 +21,7 @@ const styles = StyleSheet.create<Styles>({
     alignItems: 'center',
     height: '100%',
     width: '100%',
-    backgroundColor: 'white'
+    backgroundColor: 'white',
   },
   loadingProgressBar: {
     height: 20,
@@ -37,7 +37,7 @@ const styles = StyleSheet.create<Styles>({
     marginBottom: 10,
   },
   webView: {
-    backgroundColor: '#000000',
+    backgroundColor: '#ffffff',
   },
 });
 
