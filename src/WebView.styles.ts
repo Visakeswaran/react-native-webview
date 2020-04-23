@@ -13,7 +13,7 @@ const styles = StyleSheet.create<Styles>({
   container: {
     flex: 1,
     overflow: 'hidden',
-    backgroundColor: 'black',
+    backgroundColor: 'white',
   },
   loadingOrErrorView: {
     position: 'absolute',
@@ -22,7 +22,7 @@ const styles = StyleSheet.create<Styles>({
     alignItems: 'center',
     height: '100%',
     width: '100%',
-    backgroundColor: 'black',
+    backgroundColor: 'white',
   },
   loadingProgressBar: {
     height: 20,
@@ -38,7 +38,7 @@ const styles = StyleSheet.create<Styles>({
     marginBottom: 10,
   },
   webView: {
-    backgroundColor: 'black',
+    backgroundColor: '#ffffff',
   },
 });
 
