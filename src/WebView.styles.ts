@@ -37,7 +37,7 @@ const styles = StyleSheet.create<Styles>({
     marginBottom: 10,
   },
   webView: {
-    backgroundColor: '#ffffff',
+    backgroundColor: '#000000',
   },
 });
 
